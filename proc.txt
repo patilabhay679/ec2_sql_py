@@ -1,0 +1,11 @@
+1 . create a ec2 instance on aws and install MySQL community.
+
+
+install pip
+sudo apt install python3-pip
+
+
+
+pymysql
+flask
+
